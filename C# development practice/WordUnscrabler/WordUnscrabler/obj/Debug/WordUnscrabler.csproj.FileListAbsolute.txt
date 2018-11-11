@@ -1,0 +1,7 @@
+C:\Users\Marije\source\repos\WordUnscrabler\WordUnscrabler\bin\Debug\WordUnscrabler.exe.config
+C:\Users\Marije\source\repos\WordUnscrabler\WordUnscrabler\bin\Debug\WordUnscrabler.exe
+C:\Users\Marije\source\repos\WordUnscrabler\WordUnscrabler\bin\Debug\WordUnscrabler.pdb
+C:\Users\Marije\source\repos\WordUnscrabler\WordUnscrabler\obj\Debug\WordUnscrabler.csprojResolveAssemblyReference.cache
+C:\Users\Marije\source\repos\WordUnscrabler\WordUnscrabler\obj\Debug\WordUnscrabler.csproj.CoreCompileInputs.cache
+C:\Users\Marije\source\repos\WordUnscrabler\WordUnscrabler\obj\Debug\WordUnscrabler.exe
+C:\Users\Marije\source\repos\WordUnscrabler\WordUnscrabler\obj\Debug\WordUnscrabler.pdb

@@ -1,0 +1,7 @@
+C:\Users\Marije\source\repos\HelloWorld(Masterclass)\HelloWorld(Masterclass)\bin\Debug\HelloWorld(Masterclass).exe.config
+C:\Users\Marije\source\repos\HelloWorld(Masterclass)\HelloWorld(Masterclass)\bin\Debug\HelloWorld(Masterclass).exe
+C:\Users\Marije\source\repos\HelloWorld(Masterclass)\HelloWorld(Masterclass)\bin\Debug\HelloWorld(Masterclass).pdb
+C:\Users\Marije\source\repos\HelloWorld(Masterclass)\HelloWorld(Masterclass)\obj\Debug\HelloWorld(Masterclass).csprojResolveAssemblyReference.cache
+C:\Users\Marije\source\repos\HelloWorld(Masterclass)\HelloWorld(Masterclass)\obj\Debug\HelloWorld(Masterclass).csproj.CoreCompileInputs.cache
+C:\Users\Marije\source\repos\HelloWorld(Masterclass)\HelloWorld(Masterclass)\obj\Debug\HelloWorld(Masterclass).exe
+C:\Users\Marije\source\repos\HelloWorld(Masterclass)\HelloWorld(Masterclass)\obj\Debug\HelloWorld(Masterclass).pdb

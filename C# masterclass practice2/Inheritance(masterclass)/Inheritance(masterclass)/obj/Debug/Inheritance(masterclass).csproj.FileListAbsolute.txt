@@ -1,0 +1,7 @@
+C:\Users\Marije\source\repos\Inheritance(masterclass)\Inheritance(masterclass)\bin\Debug\Inheritance(masterclass).exe.config
+C:\Users\Marije\source\repos\Inheritance(masterclass)\Inheritance(masterclass)\bin\Debug\Inheritance(masterclass).exe
+C:\Users\Marije\source\repos\Inheritance(masterclass)\Inheritance(masterclass)\bin\Debug\Inheritance(masterclass).pdb
+C:\Users\Marije\source\repos\Inheritance(masterclass)\Inheritance(masterclass)\obj\Debug\Inheritance(masterclass).csprojResolveAssemblyReference.cache
+C:\Users\Marije\source\repos\Inheritance(masterclass)\Inheritance(masterclass)\obj\Debug\Inheritance(masterclass).csproj.CoreCompileInputs.cache
+C:\Users\Marije\source\repos\Inheritance(masterclass)\Inheritance(masterclass)\obj\Debug\Inheritance(masterclass).exe
+C:\Users\Marije\source\repos\Inheritance(masterclass)\Inheritance(masterclass)\obj\Debug\Inheritance(masterclass).pdb

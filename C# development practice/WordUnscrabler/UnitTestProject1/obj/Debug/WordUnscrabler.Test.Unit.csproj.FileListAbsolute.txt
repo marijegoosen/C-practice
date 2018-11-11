@@ -1,0 +1,16 @@
+C:\Users\Marije\source\repos\WordUnscrabler\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Marije\source\repos\WordUnscrabler\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Marije\source\repos\WordUnscrabler\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Marije\source\repos\WordUnscrabler\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Marije\source\repos\WordUnscrabler\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Marije\source\repos\WordUnscrabler\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Marije\source\repos\WordUnscrabler\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Marije\source\repos\WordUnscrabler\UnitTestProject1\bin\Debug\WordUnscrabler.exe
+C:\Users\Marije\source\repos\WordUnscrabler\UnitTestProject1\bin\Debug\WordUnscrabler.pdb
+C:\Users\Marije\source\repos\WordUnscrabler\UnitTestProject1\bin\Debug\WordUnscrabler.exe.config
+C:\Users\Marije\source\repos\WordUnscrabler\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Marije\source\repos\WordUnscrabler\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Marije\source\repos\WordUnscrabler\UnitTestProject1\obj\Debug\WordUnscrabler.Test.Unit.csprojResolveAssemblyReference.cache
+C:\Users\Marije\source\repos\WordUnscrabler\UnitTestProject1\obj\Debug\WordUnscrabler.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\Marije\source\repos\WordUnscrabler\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Marije\source\repos\WordUnscrabler\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

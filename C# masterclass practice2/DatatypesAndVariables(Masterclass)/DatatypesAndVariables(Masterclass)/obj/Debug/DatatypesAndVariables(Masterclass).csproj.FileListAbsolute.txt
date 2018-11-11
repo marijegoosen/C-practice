@@ -1,0 +1,7 @@
+C:\Users\Marije\source\repos\DatatypesAndVariables(Masterclass)\DatatypesAndVariables(Masterclass)\bin\Debug\DatatypesAndVariables(Masterclass).exe.config
+C:\Users\Marije\source\repos\DatatypesAndVariables(Masterclass)\DatatypesAndVariables(Masterclass)\bin\Debug\DatatypesAndVariables(Masterclass).exe
+C:\Users\Marije\source\repos\DatatypesAndVariables(Masterclass)\DatatypesAndVariables(Masterclass)\bin\Debug\DatatypesAndVariables(Masterclass).pdb
+C:\Users\Marije\source\repos\DatatypesAndVariables(Masterclass)\DatatypesAndVariables(Masterclass)\obj\Debug\DatatypesAndVariables(Masterclass).csprojResolveAssemblyReference.cache
+C:\Users\Marije\source\repos\DatatypesAndVariables(Masterclass)\DatatypesAndVariables(Masterclass)\obj\Debug\DatatypesAndVariables(Masterclass).csproj.CoreCompileInputs.cache
+C:\Users\Marije\source\repos\DatatypesAndVariables(Masterclass)\DatatypesAndVariables(Masterclass)\obj\Debug\DatatypesAndVariables(Masterclass).exe
+C:\Users\Marije\source\repos\DatatypesAndVariables(Masterclass)\DatatypesAndVariables(Masterclass)\obj\Debug\DatatypesAndVariables(Masterclass).pdb

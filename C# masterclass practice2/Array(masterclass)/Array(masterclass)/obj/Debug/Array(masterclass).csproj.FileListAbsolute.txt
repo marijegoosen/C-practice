@@ -1,0 +1,7 @@
+C:\Users\Marije\source\repos\Array(masterclass)\Array(masterclass)\bin\Debug\Array(masterclass).exe.config
+C:\Users\Marije\source\repos\Array(masterclass)\Array(masterclass)\bin\Debug\Array(masterclass).exe
+C:\Users\Marije\source\repos\Array(masterclass)\Array(masterclass)\bin\Debug\Array(masterclass).pdb
+C:\Users\Marije\source\repos\Array(masterclass)\Array(masterclass)\obj\Debug\Array(masterclass).csprojResolveAssemblyReference.cache
+C:\Users\Marije\source\repos\Array(masterclass)\Array(masterclass)\obj\Debug\Array(masterclass).csproj.CoreCompileInputs.cache
+C:\Users\Marije\source\repos\Array(masterclass)\Array(masterclass)\obj\Debug\Array(masterclass).exe
+C:\Users\Marije\source\repos\Array(masterclass)\Array(masterclass)\obj\Debug\Array(masterclass).pdb
