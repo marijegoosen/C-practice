@@ -1,0 +1,7 @@
+C:\Users\Marije\source\repos\OOP (masterclass)\OOP (masterclass)\bin\Debug\OOP (masterclass).exe.config
+C:\Users\Marije\source\repos\OOP (masterclass)\OOP (masterclass)\bin\Debug\OOP (masterclass).exe
+C:\Users\Marije\source\repos\OOP (masterclass)\OOP (masterclass)\bin\Debug\OOP (masterclass).pdb
+C:\Users\Marije\source\repos\OOP (masterclass)\OOP (masterclass)\obj\Debug\OOP (masterclass).csprojResolveAssemblyReference.cache
+C:\Users\Marije\source\repos\OOP (masterclass)\OOP (masterclass)\obj\Debug\OOP (masterclass).csproj.CoreCompileInputs.cache
+C:\Users\Marije\source\repos\OOP (masterclass)\OOP (masterclass)\obj\Debug\OOP (masterclass).exe
+C:\Users\Marije\source\repos\OOP (masterclass)\OOP (masterclass)\obj\Debug\OOP (masterclass).pdb

@@ -1,0 +1,7 @@
+C:\Users\Marije\Documents\Visual Studio 2017\Projects\challengeMasterclassMethods\challengeMasterclassMethods\bin\Debug\challengeMasterclassMethods.exe.config
+C:\Users\Marije\Documents\Visual Studio 2017\Projects\challengeMasterclassMethods\challengeMasterclassMethods\bin\Debug\challengeMasterclassMethods.exe
+C:\Users\Marije\Documents\Visual Studio 2017\Projects\challengeMasterclassMethods\challengeMasterclassMethods\bin\Debug\challengeMasterclassMethods.pdb
+C:\Users\Marije\Documents\Visual Studio 2017\Projects\challengeMasterclassMethods\challengeMasterclassMethods\obj\Debug\challengeMasterclassMethods.csprojResolveAssemblyReference.cache
+C:\Users\Marije\Documents\Visual Studio 2017\Projects\challengeMasterclassMethods\challengeMasterclassMethods\obj\Debug\challengeMasterclassMethods.csproj.CoreCompileInputs.cache
+C:\Users\Marije\Documents\Visual Studio 2017\Projects\challengeMasterclassMethods\challengeMasterclassMethods\obj\Debug\challengeMasterclassMethods.exe
+C:\Users\Marije\Documents\Visual Studio 2017\Projects\challengeMasterclassMethods\challengeMasterclassMethods\obj\Debug\challengeMasterclassMethods.pdb

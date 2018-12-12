@@ -1,0 +1,7 @@
+C:\Users\Marije\source\repos\Loops (masterclass)\Loops (masterclass)\bin\Debug\Loops (masterclass).exe.config
+C:\Users\Marije\source\repos\Loops (masterclass)\Loops (masterclass)\bin\Debug\Loops (masterclass).exe
+C:\Users\Marije\source\repos\Loops (masterclass)\Loops (masterclass)\bin\Debug\Loops (masterclass).pdb
+C:\Users\Marije\source\repos\Loops (masterclass)\Loops (masterclass)\obj\Debug\Loops (masterclass).csprojResolveAssemblyReference.cache
+C:\Users\Marije\source\repos\Loops (masterclass)\Loops (masterclass)\obj\Debug\Loops (masterclass).csproj.CoreCompileInputs.cache
+C:\Users\Marije\source\repos\Loops (masterclass)\Loops (masterclass)\obj\Debug\Loops (masterclass).exe
+C:\Users\Marije\source\repos\Loops (masterclass)\Loops (masterclass)\obj\Debug\Loops (masterclass).pdb

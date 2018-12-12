@@ -1,0 +1,7 @@
+C:\Users\Marije\source\repos\Making_decisions(masterclass)\Making_decisions(masterclass)\bin\Debug\Making_decisions(masterclass).exe.config
+C:\Users\Marije\source\repos\Making_decisions(masterclass)\Making_decisions(masterclass)\bin\Debug\Making_decisions(masterclass).exe
+C:\Users\Marije\source\repos\Making_decisions(masterclass)\Making_decisions(masterclass)\bin\Debug\Making_decisions(masterclass).pdb
+C:\Users\Marije\source\repos\Making_decisions(masterclass)\Making_decisions(masterclass)\obj\Debug\Making_decisions(masterclass).csprojResolveAssemblyReference.cache
+C:\Users\Marije\source\repos\Making_decisions(masterclass)\Making_decisions(masterclass)\obj\Debug\Making_decisions(masterclass).csproj.CoreCompileInputs.cache
+C:\Users\Marije\source\repos\Making_decisions(masterclass)\Making_decisions(masterclass)\obj\Debug\Making_decisions(masterclass).exe
+C:\Users\Marije\source\repos\Making_decisions(masterclass)\Making_decisions(masterclass)\obj\Debug\Making_decisions(masterclass).pdb
